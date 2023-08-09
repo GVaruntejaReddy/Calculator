@@ -1,2 +1,2 @@
 # Calculator
-A baic web app for calculator
+A basic web app for calculator
